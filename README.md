@@ -1,6 +1,6 @@
 # Report
 
-The full report can be found here.
+The full report can be found <a href="https://github.com/kh-w/kernel_linear_solver/blob/main/Math_477577_Project_Report.pdf">here</a>.
 
 # Abstract 
 
